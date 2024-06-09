@@ -1,4 +1,4 @@
-# Lab 1
+# Working of Lab 1 workflows
 
 ## Workflows
 
